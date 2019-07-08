@@ -3,3 +3,6 @@ dev1 file
 sua lan 2 tai master
 
 dev1 them l?n 2
+
+
+s?a t?i git_test_dev2
